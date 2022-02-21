@@ -97,3 +97,35 @@ main > div > p{
 .link{
     margin-left: 30%;
 }
+@media (max-width: 630px) {
+    main>div{
+        font-size: 2em;
+    }
+
+    header>p{
+        display: block;
+        text-align: center;
+        font-size: 2em;
+    }
+    header> a{
+        text-align: center;
+        margin: 0px;
+        font-size: 2em;
+        
+    }
+    .link{
+        margin-left: 34% ;
+        margin-right: 5px;
+        
+    }
+    .contador{
+        text-align: center;
+        margin-left:0px ;
+        display: block;
+    }
+    
+    a:hover{
+        font-size: 2.2em;
+    }
+}
+
