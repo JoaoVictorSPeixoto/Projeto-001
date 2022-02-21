@@ -103,6 +103,9 @@ main > div > p{
     main>div{
         font-size: 2em;
     }
+    main > div > span{
+        display: block;
+    }
 
     header>p{
         display: block;
