@@ -103,10 +103,24 @@ main > div > p{
     main>div{
         font-size: 2em;
     }
-}
 
-@media (max-width: 500px) {
-    main>div{
-        font-size: 1.5em;
+    header>p{
+        display: block;
+        text-align: center;
+    }
+    header> a{
+        text-align: center;
+    }
+    .link{
+        margin-left:0px ;
+    }
+    .contador{
+        text-align: center;
+        margin-left:0px ;
+        display: block;
+    }
+    #links{
+        display: block;
     }
 }
+
