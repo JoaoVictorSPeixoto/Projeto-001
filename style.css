@@ -104,3 +104,9 @@ main > div > p{
         font-size: 2em;
     }
 }
+
+@media (max-width: 300px) {
+    main>div{
+        font-size: 1.5em;
+    }
+}
