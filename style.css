@@ -26,7 +26,7 @@ header > p{
   
 }
 
-header > a{
+header >  a{
     text-decoration: none;
     color: black;
     font-size: 1.5em;
@@ -107,20 +107,27 @@ main > div > p{
     header>p{
         display: block;
         text-align: center;
+        font-size: 2em;
     }
     header> a{
         text-align: center;
+        margin: 0px;
+        font-size: 2em;
+        
     }
     .link{
-        margin-left:0px ;
+        margin-left: 34% ;
+        margin-right: 5px;
+        
     }
     .contador{
         text-align: center;
         margin-left:0px ;
         display: block;
     }
-    #links{
-        display: block;
+    
+    a:hover{
+        font-size: 2.2em;
     }
 }
 
