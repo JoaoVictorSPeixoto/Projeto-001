@@ -103,7 +103,7 @@ main > div > p{
     main>div{
         font-size: 2em;
     }
-    main > div > span{
+    main > div > p > span{
         display: block;
     }
 
