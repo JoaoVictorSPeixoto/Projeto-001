@@ -98,3 +98,9 @@ main > div > p{
 .link{
     margin-left: 30%;
 }
+
+@media (max-width: 630px) {
+    main>div{
+        font-size: 2em;
+    }
+}
